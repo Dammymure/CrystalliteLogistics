@@ -80,7 +80,9 @@ function Home() {
               <div className="flex-row pt-3 sm:pt-0 text-white align-middle content-center items-center justify-between sm:flex">
                 <h1
                   className="text-2xl pb-2 sm:pb-0 underline cursor-pointer hover:text-slate-300 flex align-middle content-center items-center"
-                  onClick={() => openLink("mailto:example@example.com")}
+                  onClick={() =>
+                    openLink("mailto:crystallitelogistics@gmail.com")
+                  }
                 >
                   Talk To Us
                   <span>
@@ -96,7 +98,9 @@ function Home() {
                     className="cursor-pointer"
                     src={Email}
                     alt="Email"
-                    onClick={() => openLink("mailto:example@example.com")}
+                    onClick={() =>
+                      openLink("mailto:crystallitelogistics@gmail.com")
+                    }
                   />
 
                   <img

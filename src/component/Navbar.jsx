@@ -43,7 +43,7 @@ function Navbar() {
         </p>
         <button
           className="bg-[#003049] py-2 px-4 text-sm rounded block sm:hidden hover:text-[#b80f0f]"
-          onClick={() => openLink("mailto:example@example.com")}
+          onClick={() => openLink("mailto:crystallitelogistics@gmail.com")}
         >
           Contact Us
         </button>
