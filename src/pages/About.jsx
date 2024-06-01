@@ -43,11 +43,7 @@ function About() {
               </p>
             </div>
             <div>
-              <img
-                className="w-[100%] h-64 rounded-3xl"
-                src={Vision}
-                alt=""
-              />
+              <img className="w-[100%] h-64 rounded-3xl" src={Vision} alt="" />
             </div>
           </div>
         </div>
@@ -97,11 +93,7 @@ function About() {
                       <p className="">We deliver all consignments on time.</p>
                     </div>
                     <div className="">
-                      <img
-                        className="h-36 w-[100%]"
-                        src={Delivery}
-                        alt=""
-                      />
+                      <img className="h-36 w-[100%]" src={Delivery} alt="" />
                     </div>
                   </li>
                   <li className="bg-white grid grid-cols-2 hover:bg-red-300/100 rounded-xl  justify-between ">
@@ -127,11 +119,7 @@ function About() {
                       <p className="">We are innovative and efficient</p>
                     </div>
                     <div className="">
-                      <img
-                        className="h-36 w-[100%]"
-                        src={Efficiency}
-                        alt=""
-                      />
+                      <img className="h-36 w-[100%]" src={Efficiency} alt="" />
                     </div>
                   </li>
                   <li className="bg-white grid grid-cols-2 hover:bg-red-300/100 rounded-xl  justify-between ">
@@ -144,38 +132,10 @@ function About() {
                       </p>
                     </div>
                     <div className="">
-                      <img
-                        className="h-36 w-[100%]"
-                        src={Customer}
-                        alt=""
-                      />
+                      <img className="h-36 w-[100%]" src={Customer} alt="" />
                     </div>
                   </li>
                 </div>
-                {/* <div className="grid gap-2">
-                  <li className="bg-white grid grid-cols-2 hover:bg-red-300/100 rounded-xl  justify-between">
-                    <div className="p-2">
-                      <h1 className="pb-2 text-black capitalize font-bold text-sm">
-                        Efficient
-                      </h1>
-                      <p>We are innovative and efficient</p>
-                    </div>
-                    <div>
-                      <img className="h-36 w-[100%]" src={Image1} />
-                    </div>
-                  </li>
-                  <li className="bg-white  hover:bg-red-300/100 rounded-xl p-2 flex justify-between">
-                    <div>
-                      <h1 className="pb-2 text-black capitalize font-bold">
-                        Customer
-                      </h1>
-                      <p>Customer satisfaction is our topmost priority</p>
-                    </div>
-                    <div>
-                      <img className="w-56" src={Image1} />
-                    </div>
-                  </li>
-                </div> */}
               </ul>
             </div>
           </div>
@@ -215,11 +175,7 @@ function About() {
             </div>
           </div>
           <div className="order-1 sm:order-2">
-            <img
-              className="w-[100vw] sm:w-[50vw]"
-              src={Operation}
-              alt=""
-            />
+            <img className="w-[100vw] sm:w-[50vw]" src={Operation} alt="" />
           </div>
         </section>
 
@@ -285,7 +241,7 @@ function About() {
             </p>
             <p className="text-sm sm:text-lg">
               Please contact us via whats app 08027190867 or call 08032574190 or
-              email us at xxxxxxx@gmail.com
+              email us at crystallitelogistics@gmail.com
             </p>
           </div>
           <div className="order-1 sm:order-2">
